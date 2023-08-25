@@ -1,5 +1,5 @@
 # Deep learning model building meaningful representation space in each layer
-### 784D data projected into 2D space - before learning
+### 784D data projected into 3D space - before learning
 ![784Dto3D](784to3d.png)
 
 ### Layer 1 learning better representation space in each epoch - 30D to 3D
