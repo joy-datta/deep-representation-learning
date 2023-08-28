@@ -13,3 +13,6 @@
 
 ### Layer 3s learned space - 10D to 2D
 ![final](GIFs/final_layer_10d_to_2d_repr_space.png)
+
+### Final representation space of a 4 layered deep model
+![final](GIFs/repr_space_4_gif.gif)
