@@ -16,3 +16,6 @@
 
 ### Final representation space of a 4 layered deep model
 ![final](GIFs/repr_space_4_gif.gif)
+
+### Representation learning goes wrong
+![final](GIFs/repr_bad.gif)
